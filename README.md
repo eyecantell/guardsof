@@ -1,15 +1,15 @@
 # Project Overview: Guardians of Fellowship
 
 ## Mission
-To proactively reach out to isolated or struggling individuals in online spaces (starting with X.com) who display a need for fellowship or help with life's challenges. We offer genuine emotional validation, empathetic listening, practical encouragement, and—when appropriate—gentle invitations to explore the Gospel and connect with local church communities (beginning in Woodland Park, CO). The ultimate goal is to show people they are seen and loved by God, combat online loneliness and negativity, and help them find lasting freedom and fellowship in Christ through a local church family.
+To proactively reach out to isolated or struggling individuals in online spaces (starting with X.com) who display a need for fellowship or help with life's challenges. We offer genuine emotional validation, empathetic listening, practical encouragement, and-when appropriate-gentle invitations to explore the Gospel and connect with local church communities (beginning in Woodland Park, CO). The ultimate goal is to show people they are seen and loved by God, combat online loneliness and negativity, and help them find lasting freedom and fellowship in Christ through a local church family.
 
 ## Differentiator
-Unlike reactive ministries (e.g., Chatnow, Need Him, Global Media Outreach) that wait for inbound requests, this project uses AI-assisted tools to ethically identify public signals of need, then empowers trained human "Guardians" to initiate caring, non-intrusive conversations. Technology enables proactive outreach while preserving the personal, empathetic touch essential for building trust.
+Unlike reactive ministries (e.g., Chatnow, Need Him, Global Media Outreach) that wait for inbound requests, this project uses AI-assisted tools to ethically identify public signals of need, then empowers trained human "Guardians" to initiate caring, non-intrusive conversations. Technology enables proactive outreach while preserving the personal, empathetic touch essential for building trust-starting with manual, human-executed messages in the MVP for maximum authenticity.
 
 ## Key Components
 - **Guardsof.com**: Secure internal platform for Guardians  
   - AI-curated queue of public posts signaling isolation or struggle (initially from X.com API)  
-  - Suggested opening lines categorized by style (validation-first, encouragement, question-based, etc.)  
+  - Suggested opening lines categorized by style (validation-first, encouragement, question-based, etc.) with manual copy/paste workflow and deep links to native apps  
   - CRM for tracking conversations (with explicit consent) and tagging by situation/attitude  
   - "Iron sharpens iron" section for sharing anonymized logs, awarding sprout 🌱 ratings, and giving constructive feedback  
   - Analytics dashboard to identify effective approaches and refine best practices over time  
@@ -27,23 +27,23 @@ Unlike reactive ministries (e.g., Chatnow, Need Him, Global Media Outreach) that
   - Rely on continuous human feedback (queue item ratings, sprout system, guardian notes) to improve accuracy and reduce false positives (e.g., sarcasm detection)  
 
 - **Outreach Strategy**:  
-  - Always lead with emotional validation and brief, personalized messages  
+  - Always lead with emotional validation and brief, personalized messages (manual copy/paste in native apps for MVP)  
   - Hybrid public/private engagement: start with public replies when appropriate, transition to DMs with consent  
   - Experiment with different opener styles based on displayed situation/attitude to build a data-informed library of best practices  
   - Use #nowfree hashtag to track and celebrate ongoing conversations  
 
 ## Ethical Considerations
 - **Privacy & Consent**: API-only data pulls; full anonymization of shared content; explicit consent required for logging private chats or sending surveys  
-- **Non-Intrusive**: Clear opt-outs in every interaction; prioritize listening and empathy over preaching; avoid bulk or sales-like messaging  
+- **Non-Intrusive**: Clear opt-outs in every interaction; prioritize listening and empathy over preaching; avoid bulk or sales-like messaging; manual execution in early phases  
 - **Guardian Safety**: Training on burnout prevention, handling hostility, and emotional support; small encouragement groups for ongoing debriefing  
 - **Compliance**: Strict adherence to platform TOS/AUP and relevant privacy laws (e.g., CCPA); annual reviews and legal consultation as needed  
 
 ## Phased Approach
 1. **Planning & Prototyping (1-2 months)**: Finalize ethics, wireframes, local church partnerships, and MVP scope  
-2. **MVP Build (2-3 months)**: X.com API integration, basic queue, opener suggestions, CRM, and discussion board  
+2. **MVP Build (2-3 months)**: X.com API integration, basic queue, opener suggestions with manual workflow, CRM, and discussion board  
 3. **Local Pilot & Testing**: Start with 5-10 Guardians from home church; in-person/phone/video brainstorming of successes, failures, and refinements  
 4. **Iteration & Proof of Concept**: Use guardian feedback, sprout ratings, and survey data to improve AI queue and outreach methods  
-5. **Scaling**: Expand recruitment to partner churches; develop onboarding video series and small encouragement groups; add platforms and regions only after local success and tool confidence  
+5. **Scaling**: Expand recruitment to partner churches; develop onboarding video series and small encouragement groups; add platforms and regions only after local success and tool confidence; introduce optional semi-automated features  
 
 ## Guardian Recruitment & Support
 - Begin with volunteers from local church  
@@ -63,4 +63,7 @@ Unlike reactive ministries (e.g., Chatnow, Need Him, Global Media Outreach) that
 - Guardians and partnering churches invited to contribute toward platform costs once value is demonstrated  
 - Seek broader donors and grants after measurable results are available  
 
+
 *Updated: December 23, 2025 – Incorporating iterative feedback, guardian support structure, impact measurement emphasis, and phased recruitment/scaling approach.*
+
+*Updated: January 04, 2026 – Added notes on MVP manual copy/paste workflow for authenticity/compliance, future semi-automation, and preserved original structure/emphasis on proactive, human-centered outreach.*

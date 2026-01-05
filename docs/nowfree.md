@@ -1,7 +1,7 @@
 # Nowfree.org: Public Gospel Resource Hub
 
 ## Purpose
-A welcoming, mobile-optimized, public-facing website designed to serve as the primary referral destination for Guardians' outreach. It provides a clear, non-pushy presentation of the Gospel, practical next steps for seekers, and connections to vetted local church communities—starting in Woodland Park, CO. The ultimate goal is to help individuals experiencing isolation or life's struggles find lasting hope in Christ and meaningful fellowship through joining a local church family.
+A welcoming, mobile-optimized, public-facing website designed to serve as the primary referral destination for Guardians' outreach. It provides a clear, non-pushy presentation of the Gospel, practical next steps for seekers, and connections to vetted local church communities-starting in Woodland Park, CO. The ultimate goal is to help individuals experiencing isolation or life's struggles find lasting hope in Christ and meaningful fellowship through joining a local church family.
 
 ## Key Features
 - **Gospel Walkthrough**: 

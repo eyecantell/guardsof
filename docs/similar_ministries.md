@@ -8,11 +8,11 @@ These emphasize live, empathetic interactions, offering models for Guardian trai
 
 | Ministry | Approach | Lessons Learned | Potential Partnerships |
 |----------|----------|-----------------|-------------------------|
-| **Chatnow (chatnow.org)** | 24/7 anonymous chat with trained volunteers for crisis/spiritual guidance; listening first, then Gospel-sharing. Tracks outcomes for QA. | Prioritize active listening over evangelism; post-chat surveys for feedback (adapt for sprout ratings). Integrates local church referrals—ideal for Woodland Park focus. | Co-train Guardians on crisis response; share anonymized case studies for our "iron sharpens iron" section. |
+| **Chatnow (chatnow.org)** | 24/7 anonymous chat with trained volunteers for crisis/spiritual guidance; listening first, then Gospel-sharing. Tracks outcomes for QA. | Prioritize active listening over evangelism; post-chat surveys for feedback (adapt for sprout ratings). Integrates local church referrals-ideal for Woodland Park focus. | Co-train Guardians on crisis response; share anonymized case studies for our "iron sharpens iron" section. |
 | **Anthem of Hope (anthemofhope.org)** | Free Hope Chat for depression/anxiety/suicidality; certified Christian coaches validate emotions before faith talks; connects to fellowships. | Emotional validation as entry point reduces resistance; queue systems prevent burnout (mirrors our Guardian workflow). Scaled to thousands of chats/year. | Collaborate on validation-focused opener templates; joint webinars on online mental health support. |
 | **Need Him Global Ministries (needhim.org)** | 24/7 Bible-based chat for advice/crises; recruits volunteers from forums; non-judgmental starters. | Recruit via online communities (e.g., for growing Guardians); organic entry points refine AI suggestions. | Exchange volunteer recruitment strategies; integrate their chat as a nowfree.org escalation option. |
 | **Peace With God (peacewithgod.net)** | Billy Graham Assoc.'s chat for lonely/anxious users; Bible talks + multimedia resources (e.g., videos on suffering). | Multimedia links (e.g., hope videos) for non-text validation; global reach via web embeds guides single-platform starts like X.com. | License their videos for nowfree.org; co-develop geo-specific resource lists. |
-| **JesusCares.com** | Real-people chats for the hurting; focuses on immediate encouragement. | Simple, human-centered chats build quick trust—test in our MVP for attention-deprived users. | Share chat transcripts (anonymized) for training; cross-promote in outreach. |
+| **JesusCares.com** | Real-people chats for the hurting; focuses on immediate encouragement. | Simple, human-centered chats build quick trust-test in our MVP for attention-deprived users. | Share chat transcripts (anonymized) for training; cross-promote in outreach. |
 | **GodCanHelp.co** | 24/7 coaches for life struggles; prayer and counsel emphasis. | Rapid response for urgent needs; informs queue prioritization in guardsof.com. | Partner for overflow chats; align on ethical consent guidelines. |
 
 ## Digital Evangelism and Broader Online Outreach
@@ -36,7 +36,7 @@ These blend tech with outreach, aligning with our AI tools.
 - **Colorado Church Alliances**: Local efforts for addiction/homeless support via online forums. **Lessons**: Geo-specific referrals build credibility. **Partnerships**: Woodland Park integrations for nowfree.org church lists.
 
 ## Key Takeaways for Our Project
-- **Common Challenges**: Ethical privacy (e.g., consent in chats); scaling follow-ups without burnout—our CRM and points system address these.
+- **Common Challenges**: Ethical privacy (e.g., consent in chats); scaling follow-ups without burnout-our CRM and points system address these.
 - **Gaps We Fill**: Proactive direct outreach via AI queues; local-first scaling from Woodland Park.
 - **Overall Partnership Strategy**: Start with 2-3 (e.g., Chatnow for ops, Lausanne for ethics); focus on resource-sharing and co-training to amplify impact without overlap.
 - **Next Steps**: Reach out via email/sites; track in guardsof.com CRM for collaboration logs.
